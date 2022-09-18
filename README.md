@@ -9,7 +9,11 @@ Please open new threads or address all questions to xiyue.wang.scu@gmail.com
 * 32GB of RAM
 * 4*Nvidia V100 32G GPUs
 
-
+## Updates / TODOs
+Please follow this GitHub for more updates.
+- [ ] Add training code
+- [ ] Add inference code for evaluation.
+- [X] Add fourier-based data augmentation.
 ###
 #### 1.Preparations
 * Data Preparation
@@ -40,7 +44,7 @@ please see the [HoVer-Net](https://github.com/vqdang/hover_net),get the cell mas
 #### Training
 
 
-#### Predict
+#### Inference
 
 
 
