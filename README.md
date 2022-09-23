@@ -12,7 +12,8 @@ Please open new threads or address all questions to xiyue.wang.scu@gmail.com
 ## Updates / TODOs
 Please follow this GitHub for more updates.
 - [ ] Add training code
-- [ ] Add inference code for evaluation.
+- [X] Add inference code for evaluation.
+- [X] Add model.
 - [X] Add fourier-based data augmentation.
 ###
 #### 1.Preparations
@@ -33,21 +34,21 @@ Please follow this GitHub for more updates.
 [Here](https://drive.google.com/drive/folders/1xn0VCAVKFEXzya5bjuoth5vgh0yt9C2Z?usp=sharing) are some images we grabbed randomly
 
 ```
-get_fda_image.py
+python get_fda_image.py
 ```
 
 #### 3.Get instance mask
 please see the [HoVer-Net](https://github.com/vqdang/hover_net),get the cell mask.And then intersect with the mitotic bbox to get the mitotic mask, and finally preprocess 512*512 patches.
-[Here]() is our processed some image and the corresponding mask
+[Here](https://drive.google.com/drive/folders/1WrB3Mu_rLtSKbWfbwv2JmOYHSqZDvUof?usp=sharing) is our processed some image and the corresponding mask
 
-
-#### Training
 
 
 #### Inference
 
 
-
+```
+python process.py
+```
 
 
 ## License
