@@ -44,7 +44,7 @@ please see the [HoVer-Net](https://github.com/vqdang/hover_net),get the cell mas
 
 
 #### Inference
-
+test image is on the path ./test/007.tiff
 
 ```
 python process.py
