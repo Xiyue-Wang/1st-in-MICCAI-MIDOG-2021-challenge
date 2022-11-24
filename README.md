@@ -56,15 +56,18 @@ python process.py
 This code(FMDet) is released under the GPLv3 License and is available for non-commercial academic purposes.
 
 ### Citation
-Please use below to cite this paper if you find our work useful in your research.
+Please use below to cite this [paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841522003310) if you find our work useful in your research.
 
 
 ```
-@{wang2022,
-  title={A Generalizable and Robust Deep Learning Algorithm for Mitosis Detection in Multicenter Breast Histopathological Images},
-  author={Wang, Xiyue and Zhang, Jun and Yang, Sen and Xiang, Jingxi and Feng, Luo and Wang, Minghui and Zhang, Jing  and Yang, Wei and Huang, Junzhou  and Han, Xiao},
-  year={2022},
-  publisher={Elsevier}
+@article{WANG2022102703,
+title = {A generalizable and robust deep learning algorithm for mitosis detection in multicenter breast histopathological images},
+author = {Xiyue Wang and Jun Zhang and Sen Yang and Jingxi Xiang and Feng Luo and Minghui Wang and Jing Zhang and Wei Yang and Junzhou Huang and Xiao Han},
+journal = {Medical Image Analysis},
+pages = {102703},
+year = {2022},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2022.102703}
 }
 ``` 
 
