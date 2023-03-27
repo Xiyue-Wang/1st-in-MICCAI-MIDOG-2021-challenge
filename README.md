@@ -4,8 +4,7 @@
 
 [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841522003310)
 
-This is the source code for the first place solution to the [MICCAI 2021 MIDOG microscopy domain generalization challenge](https://midog2021.grand-challenge.org/).
-[Algorithms and Weights](https://grand-challenge.org/algorithms/mitos/)
+This is the source code for the first place solution to the [MICCAI 2021 MIDOG microscopy domain generalization challenge](https://midog2021.grand-challenge.org/) and [Algorithms and Weights](https://grand-challenge.org/algorithms/mitos/).
 
 Please open new threads or address all questions to xiyue.wang.scu@gmail.com
 #### Hardware
